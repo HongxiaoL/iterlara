@@ -1,1 +1,2 @@
-# iterlara
+# IterLara
+## an extension of Lara
