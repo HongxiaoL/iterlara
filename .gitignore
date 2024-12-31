@@ -1,0 +1,14 @@
+dist/
+dist-newstyle/
+.stack-work/
+*.o
+*.hi
+*.dyn_o
+*.dyn_hi
+*.prof
+*.hp
+*.eventlog
+*.hie
+.ghc.environment.*
+*.exe
+*.dll
